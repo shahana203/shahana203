@@ -9,7 +9,8 @@
 🔹 Full Stack Developer (MERN Stack)  
 🔹 Passionate about building **scalable web applications**  
 🔹 Skilled in **frontend, backend, database, and deployment**  
-🔹 Check out my work 👉
+🔹  **Check out my Portfolio:** [shahana203.github.io/portfolio](https://shahana203.github.io/portfolio/)
+
 
 ---
 
@@ -51,7 +52,7 @@
 # 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:shahanaj203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://shahana203.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shahana-j/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
