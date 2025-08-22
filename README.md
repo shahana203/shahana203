@@ -10,6 +10,8 @@
 🔹 Passionate about building **scalable web applications**  
 🔹 Skilled in **frontend, backend, database, and deployment**  
 🔹 Check out my portfolio : 
+                           
+                            
                             [![Portfolio](https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahana203.github.io/portfolio/)
 
   
