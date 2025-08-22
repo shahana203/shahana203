@@ -9,10 +9,8 @@
 🔹 Full Stack Developer (MERN Stack)  
 🔹 Passionate about building **scalable web applications**  
 🔹 Skilled in **frontend, backend, database, and deployment**  
-🔹  ## Portfolio  
-
-[![Portfolio Logo](images/82f98ebe-a48b-48e8-ad32-a815a07bf1c2.png)](https://shahana203.github.io/portfolio/)
-
+🔹 ## Portfolio [![Portfolio Logo](images/82f98ebe-a48b-48e8-ad32-a815a07bf1c2.png)](https://shahana203.github.io/portfolio/)
+ 
                            
                             
 
